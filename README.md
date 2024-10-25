@@ -1,5 +1,3 @@
-# 22577
-
 # MyName
 
-Amogh
+# Amogh Guragai
