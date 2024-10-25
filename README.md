@@ -1,3 +1,3 @@
-# MyName
+# My Name
 
 # Amogh Guragai
